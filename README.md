@@ -1,0 +1,2 @@
+# Gray2ColorNetKnowledgeDistillation
+Knowledge distillation of Gray2ColorNet
